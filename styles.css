@@ -2,9 +2,9 @@
 #grid{
 	display:grid;
 	width:100vw;
-	grid-template-columns:140px 140px 140px 140px;
+	grid-template-columns:242.5px 242.5px 242.5px 242.5px;
 	/* grid-template-columns:auto auto auto auto ; */
-	grid-template-rows:40px 40px 40px 40px 40px;
+	grid-template-rows:124px 124px 124px 124px 124px;
 	grid-gap:10px;
 	
 }
